@@ -1,6 +1,7 @@
 #Usage
 
 ##Install dependencies
+```sh
 npm install
 cd client
 npm install
