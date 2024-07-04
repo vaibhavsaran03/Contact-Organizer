@@ -57,7 +57,7 @@ Navbar.propTypes = {
 };
 
 Navbar.defaultProps = {
-  title: 'Contact Keeper',
+  title: 'Contact Organiser',
   icon: 'fas fa-id-card-alt'
 };
 
